@@ -1,0 +1,1 @@
+Simple example of speech commands using System.Speech library.
